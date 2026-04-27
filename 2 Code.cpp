@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	int a = 15;
+	int b = 0101;
+	printf("%d",a+b);
+	return 0;
+}
